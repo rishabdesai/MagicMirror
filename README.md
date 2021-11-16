@@ -13,7 +13,8 @@
 ---
 #### Screenshot: 
 
-![mmm](images\default_modules.png)
+![mmm](![default_modules](https://user-images.githubusercontent.com/31618460/141990276-cf6e8806-655c-49cc-bd6d-56bf4ed646b5.png)
+)
 ### Default Modules:
 Default module list can be found in documentation at this [link](https://docs.magicmirror.builders/modules/introduction.html)
 

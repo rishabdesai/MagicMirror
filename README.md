@@ -52,7 +52,7 @@ config:
 
 ```
 
-#### **Weatjer**
+#### **Weather**
 ```config
 {
 module: "weather",
@@ -108,8 +108,9 @@ config:
 ```
 
 #### 3rd Party Modules :
-* Varous 3rd party modules can be fount at following link:
+* Various 3rd party modules can be found at following link:
     > https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules
+* 3rd party modules are installed in folder- `~/MagicMirror/modules`
 
 ---
 
